@@ -1,0 +1,20 @@
+{
+  "name": "online-store",
+  "description": "e-commerce store",
+  "main": "",
+  "authors": [
+    "Michael Koceja <michael.koceja@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
